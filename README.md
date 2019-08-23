@@ -2,7 +2,7 @@
 
 Average, run-of-the-mill GitHub Pages user website
 
-https://cosmo.red/
+https://cosmo.red
 
 ---
 
