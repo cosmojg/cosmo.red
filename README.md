@@ -1,4 +1,4 @@
-## cosmojg.github.io
+## cosmo.red
 
 Average, run-of-the-mill GitHub Pages user website
 
